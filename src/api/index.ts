@@ -1,0 +1,1 @@
+export { default as openApi } from './open-api';
